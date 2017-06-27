@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BitzAndPizzas</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_create_order">Создать заказ</string>
+    <string name="action_share">Поделиться</string>
+    <string name="order_activity_label">Сделайте заказ!</string>
+
+    <string name="title_top">Фрагмент верхнего уровня</string>
+
+    <string name="title_pizza">Область пиццы</string>
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string name="title_pasta">Область пасты</string>
+    <string-array name="pasta">
+        <item>Spaghetti Bolonese</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string name="title_stores">Пиццерии</string>
+    <string-array name="stores">
+        <item>Cambdridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Главный экран</item>
+        <item>Пицца</item>
+        <item>Паста</item>
+        <item>Кофейни</item>
+    </string-array>
+
+    <string name="open_drawer">Открыть панель</string>
+    <string name="close_drawer">Закрыть панель</string>
+</resources>
